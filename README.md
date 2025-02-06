@@ -4,8 +4,7 @@ WhatsApp Bulk Messenger automates the sending of messages via WhatsApp Web. This
 
 **Note:** The current program is limited to sending only text messages.
 
-**Note:** Another version of a similar project is available that supports sending media and documents along with text. As per many requests, I have added a [video here](https://youtu.be/NNkAh5sLEok) demonstrating how the app works. Please reach out to me on [email](mailto:bagrianirudh@gmail.com) for more inquiries. Join the [Google Group here](https://groups.google.com/g/whatsapp-bulker/) and [Telegram Group here](https://t.me/whatsapp_bulker).
-
+**Note:** Another version of a similar project is available that supports sending media and documents along with text. 
 ## Requirements
 
 - Python >= 3.6
